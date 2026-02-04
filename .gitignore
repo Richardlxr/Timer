@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+
+# IDE
+.vscode/
+
+
+# C++ 编译输出
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# 可执行文件
+timer
+a.out
+
+# 编译文件
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
