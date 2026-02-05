@@ -19,6 +19,8 @@
 # 可执行文件
 timer
 a.out
+main
+build/
 
 # 编译文件
 *.a
